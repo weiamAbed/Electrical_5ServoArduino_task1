@@ -1,6 +1,8 @@
 # Electrical_5ServoArduino_task1
 This repository is for task 1 of the ELECTRICAL track of my summer training at Smart-Methods
 
+To Simulate in Tinkercad: "https://www.tinkercad.com/things/k78tGveDN4m"
+
 ----------------------------------------------------------
 
   //5 Servo motors for robot arm connected with arduino / breadboard
